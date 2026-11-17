@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="916" viewBox="0 0 880 916" font-family="-apple-system,BlinkMacSystemFont,'SF Pro Display','SF Pro Text','Inter','Helvetica Neue',Arial,sans-serif">
   <rect width="880" height="916" rx="32" fill="#000000"/>
-  <text x="24" y="48" font-size="13" font-weight="600" fill="#8E8E93" letter-spacing=".4">MONDAY, NOVEMBER 16</text>
+  <text x="24" y="48" font-size="13" font-weight="600" fill="#8E8E93" letter-spacing=".4">TUESDAY, NOVEMBER 17</text>
   <text x="24" y="90" font-size="38" font-weight="800" fill="#FFFFFF" letter-spacing="-1">Summary</text>
   <text x="202" y="90" font-size="17" fill="#8E8E93">Ian Love · Evoq Studio, Nairobi</text>
   <g transform="translate(834 72)">
@@ -19,19 +19,19 @@
     <circle r="66" fill="none" stroke="#FA114F" stroke-width="14" stroke-linecap="round" transform="rotate(-90)"
       stroke-dasharray="414.6902302738527 414.6902302738527" stroke-dashoffset="0"/><circle r="48" fill="none" stroke="#A6FF00" stroke-opacity=".22" stroke-width="14"/>
     <circle r="48" fill="none" stroke="#A6FF00" stroke-width="14" stroke-linecap="round" transform="rotate(-90)"
-      stroke-dasharray="215.42349624615724 301.59289474462014" stroke-dashoffset="0"/><circle r="30" fill="none" stroke="#00D8FE" stroke-opacity=".22" stroke-width="14"/>
+      stroke-dasharray="301.59289474462014 301.59289474462014" stroke-dashoffset="0"/><circle r="30" fill="none" stroke="#00D8FE" stroke-opacity=".22" stroke-width="14"/>
     <circle r="30" fill="none" stroke="#00D8FE" stroke-width="14" stroke-linecap="round" transform="rotate(-90)"
-      stroke-dasharray="31.415926535897928 188.49555921538757" stroke-dashoffset="0"/></g>
+      stroke-dasharray="43.982297150257104 188.49555921538757" stroke-dashoffset="0"/></g>
     <g transform="translate(250 10)">
       <text x="0" y="90" font-size="15" font-weight="600" fill="#FFFFFF">Contribute</text>
-      <text x="0" y="132" font-size="36" font-weight="700" fill="#FA114F" letter-spacing="-0.5">72<tspan font-size="16" font-weight="600" fill="#8E8E93" dx="4">/40</tspan></text>
-      <text x="0" y="160" font-size="13" fill="#8E8E93">+69 vs last week</text></g><g transform="translate(446 10)">
+      <text x="0" y="132" font-size="36" font-weight="700" fill="#FA114F" letter-spacing="-0.5">91<tspan font-size="16" font-weight="600" fill="#8E8E93" dx="4">/40</tspan></text>
+      <text x="0" y="160" font-size="13" fill="#8E8E93">+88 vs last week</text></g><g transform="translate(446 10)">
       <text x="0" y="90" font-size="15" font-weight="600" fill="#FFFFFF">Active days</text>
-      <text x="0" y="132" font-size="36" font-weight="700" fill="#34C759" letter-spacing="-0.5">5<tspan font-size="16" font-weight="600" fill="#8E8E93" dx="4">/7 DAYS</tspan></text>
-      <text x="0" y="160" font-size="13" fill="#8E8E93">9 of last 30 days</text></g><g transform="translate(642 10)">
+      <text x="0" y="132" font-size="36" font-weight="700" fill="#34C759" letter-spacing="-0.5">7<tspan font-size="16" font-weight="600" fill="#8E8E93" dx="4">/7 DAYS</tspan></text>
+      <text x="0" y="160" font-size="13" fill="#8E8E93">11 of last 30 days</text></g><g transform="translate(642 10)">
       <text x="0" y="90" font-size="15" font-weight="600" fill="#FFFFFF">Streak</text>
-      <text x="0" y="132" font-size="36" font-weight="700" fill="#00D8FE" letter-spacing="-0.5">5<tspan font-size="16" font-weight="600" fill="#8E8E93" dx="4">/30 DAYS</tspan></text>
-      <text x="0" y="160" font-size="13" fill="#8E8E93">Best run 5 days</text></g>
+      <text x="0" y="132" font-size="36" font-weight="700" fill="#00D8FE" letter-spacing="-0.5">7<tspan font-size="16" font-weight="600" fill="#8E8E93" dx="4">/30 DAYS</tspan></text>
+      <text x="0" y="160" font-size="13" fill="#8E8E93">Best run 7 days</text></g>
   </g>
 
   
@@ -41,29 +41,29 @@
     <text x="40" y="33" font-size="15" font-weight="600" fill="#FF9500">Contributions</text>
     <text x="372" y="33" text-anchor="end" font-size="13" fill="#8E8E93">Last 7 days</text>
     <path d="M382 23 l5 5 -5 5" stroke="#8E8E93" stroke-opacity=".6" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-    <text x="24" y="82" font-size="34" font-weight="700" fill="#FFFFFF" letter-spacing="-0.5">72<tspan font-size="16" font-weight="600" fill="#8E8E93" dx="4">this week</tspan></text>
+    <text x="24" y="82" font-size="34" font-weight="700" fill="#FFFFFF" letter-spacing="-0.5">91<tspan font-size="16" font-weight="600" fill="#8E8E93" dx="4">this week</tspan></text>
     <g transform="translate(24 106)"><g transform="translate(0 0)"><rect x="0" y="96" width="28" height="4" rx="6" fill="#FF9500" fill-opacity="0.55">
       <animate attributeName="height" from="0" to="4" dur=".8s" begin="0s" fill="freeze"/>
       <animate attributeName="y" from="100" to="96" dur=".8s" begin="0s" fill="freeze"/></rect>
-      <text x="14" y="120" text-anchor="middle" font-size="12" fill="#8E8E93">T</text><rect x="46" y="96" width="28" height="4" rx="6" fill="#FF9500" fill-opacity="0.55">
-      <animate attributeName="height" from="0" to="4" dur=".8s" begin="0.1s" fill="freeze"/>
-      <animate attributeName="y" from="100" to="96" dur=".8s" begin="0.1s" fill="freeze"/></rect>
-      <text x="60" y="120" text-anchor="middle" font-size="12" fill="#8E8E93">W</text><rect x="92" y="35.2" width="28" height="64.8" rx="6" fill="#FF9500" fill-opacity="0.55">
-      <animate attributeName="height" from="0" to="64.8" dur=".8s" begin="0.2s" fill="freeze"/>
-      <animate attributeName="y" from="100" to="35.2" dur=".8s" begin="0.2s" fill="freeze"/></rect>
-      <text x="106" y="120" text-anchor="middle" font-size="12" fill="#8E8E93">T</text><rect x="138" y="78.4" width="28" height="21.599999999999998" rx="6" fill="#FF9500" fill-opacity="0.55">
-      <animate attributeName="height" from="0" to="21.599999999999998" dur=".8s" begin="0.30000000000000004s" fill="freeze"/>
-      <animate attributeName="y" from="100" to="78.4" dur=".8s" begin="0.30000000000000004s" fill="freeze"/></rect>
-      <text x="152" y="120" text-anchor="middle" font-size="12" fill="#8E8E93">F</text><rect x="184" y="20.799999999999997" width="28" height="79.2" rx="6" fill="#FF9500" fill-opacity="0.55">
-      <animate attributeName="height" from="0" to="79.2" dur=".8s" begin="0.4s" fill="freeze"/>
-      <animate attributeName="y" from="100" to="20.799999999999997" dur=".8s" begin="0.4s" fill="freeze"/></rect>
-      <text x="198" y="120" text-anchor="middle" font-size="12" fill="#8E8E93">S</text><rect x="230" y="10" width="28" height="90" rx="6" fill="#FF9500" fill-opacity="0.55">
-      <animate attributeName="height" from="0" to="90" dur=".8s" begin="0.5s" fill="freeze"/>
-      <animate attributeName="y" from="100" to="10" dur=".8s" begin="0.5s" fill="freeze"/></rect>
-      <text x="244" y="120" text-anchor="middle" font-size="12" fill="#8E8E93">S</text><rect x="276" y="96" width="28" height="4" rx="6" fill="#FF9500" fill-opacity="1">
-      <animate attributeName="height" from="0" to="4" dur=".8s" begin="0.6000000000000001s" fill="freeze"/>
-      <animate attributeName="y" from="100" to="96" dur=".8s" begin="0.6000000000000001s" fill="freeze"/></rect>
-      <text x="290" y="120" text-anchor="middle" font-size="12" fill="#8E8E93">M</text></g></g>
+      <text x="14" y="120" text-anchor="middle" font-size="12" fill="#8E8E93">W</text><rect x="46" y="35.2" width="28" height="64.8" rx="6" fill="#FF9500" fill-opacity="0.55">
+      <animate attributeName="height" from="0" to="64.8" dur=".8s" begin="0.1s" fill="freeze"/>
+      <animate attributeName="y" from="100" to="35.2" dur=".8s" begin="0.1s" fill="freeze"/></rect>
+      <text x="60" y="120" text-anchor="middle" font-size="12" fill="#8E8E93">T</text><rect x="92" y="78.4" width="28" height="21.599999999999998" rx="6" fill="#FF9500" fill-opacity="0.55">
+      <animate attributeName="height" from="0" to="21.599999999999998" dur=".8s" begin="0.2s" fill="freeze"/>
+      <animate attributeName="y" from="100" to="78.4" dur=".8s" begin="0.2s" fill="freeze"/></rect>
+      <text x="106" y="120" text-anchor="middle" font-size="12" fill="#8E8E93">F</text><rect x="138" y="20.799999999999997" width="28" height="79.2" rx="6" fill="#FF9500" fill-opacity="0.55">
+      <animate attributeName="height" from="0" to="79.2" dur=".8s" begin="0.30000000000000004s" fill="freeze"/>
+      <animate attributeName="y" from="100" to="20.799999999999997" dur=".8s" begin="0.30000000000000004s" fill="freeze"/></rect>
+      <text x="152" y="120" text-anchor="middle" font-size="12" fill="#8E8E93">S</text><rect x="184" y="10" width="28" height="90" rx="6" fill="#FF9500" fill-opacity="0.55">
+      <animate attributeName="height" from="0" to="90" dur=".8s" begin="0.4s" fill="freeze"/>
+      <animate attributeName="y" from="100" to="10" dur=".8s" begin="0.4s" fill="freeze"/></rect>
+      <text x="198" y="120" text-anchor="middle" font-size="12" fill="#8E8E93">S</text><rect x="230" y="96" width="28" height="4" rx="6" fill="#FF9500" fill-opacity="0.55">
+      <animate attributeName="height" from="0" to="4" dur=".8s" begin="0.5s" fill="freeze"/>
+      <animate attributeName="y" from="100" to="96" dur=".8s" begin="0.5s" fill="freeze"/></rect>
+      <text x="244" y="120" text-anchor="middle" font-size="12" fill="#8E8E93">M</text><rect x="276" y="35.2" width="28" height="64.8" rx="6" fill="#FF9500" fill-opacity="1">
+      <animate attributeName="height" from="0" to="64.8" dur=".8s" begin="0.6000000000000001s" fill="freeze"/>
+      <animate attributeName="y" from="100" to="35.2" dur=".8s" begin="0.6000000000000001s" fill="freeze"/></rect>
+      <text x="290" y="120" text-anchor="middle" font-size="12" fill="#8E8E93">T</text></g></g>
   </g>
 
   
@@ -71,10 +71,10 @@
     <rect width="408" height="240" rx="20" fill="#1C1C1E"/>
     <circle cx="26" cy="28" r="6" fill="#5856D6"/>
     <text x="40" y="33" font-size="15" font-weight="600" fill="#5856D6">Languages</text>
-    <text x="372" y="33" text-anchor="end" font-size="13" fill="#8E8E93">42 repos</text>
+    <text x="372" y="33" text-anchor="end" font-size="13" fill="#8E8E93">43 repos</text>
     <path d="M382 23 l5 5 -5 5" stroke="#8E8E93" stroke-opacity=".6" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
     <text x="24" y="82" font-size="34" font-weight="700" fill="#FFFFFF" letter-spacing="-0.5">TypeScript<tspan font-size="16" font-weight="600" fill="#8E8E93" dx="4">34%</tspan></text>
-    <g transform="translate(24 104)"><rect x="0" y="0" width="142.6025921405604" height="14" rx="4" fill="#5856D6"/><rect x="145.6025921405604" y="0" width="106.17886233172511" height="14" rx="4" fill="#30B0C7"/><rect x="254.78145447228553" y="0" width="45.57746077862803" height="14" rx="4" fill="#FF9500"/><rect x="303.3589152509136" y="0" width="41.93345774343809" height="14" rx="4" fill="#FF2D55"/><rect x="348.2923729943517" y="0" width="28.707627005648284" height="14" rx="4" fill="#AF52DE"/></g>
+    <g transform="translate(24 104)"><rect x="0" y="0" width="140.79890496688796" height="14" rx="4" fill="#5856D6"/><rect x="143.79890496688796" y="0" width="104.82638288250094" height="14" rx="4" fill="#30B0C7"/><rect x="251.62528784938888" y="0" width="49.68303729530479" height="14" rx="4" fill="#FF9500"/><rect x="304.3083251446937" y="0" width="41.37683371491563" height="14" rx="4" fill="#FF2D55"/><rect x="348.6851588596093" y="0" width="28.314841140390694" height="14" rx="4" fill="#AF52DE"/></g>
     <g transform="translate(24 150)">
     <g transform="translate(0 0)">
       <circle cx="5" cy="-4" r="5" fill="#5856D6"/>
@@ -83,15 +83,15 @@
     <g transform="translate(200 0)">
       <circle cx="5" cy="-4" r="5" fill="#30B0C7"/>
       <text x="16" y="1" font-size="14" fill="#FFFFFF">JavaScript</text>
-      <text x="180" y="1" text-anchor="end" font-size="14" fill="#8E8E93">26%</text></g>
+      <text x="180" y="1" text-anchor="end" font-size="14" fill="#8E8E93">25%</text></g>
     <g transform="translate(0 26)">
       <circle cx="5" cy="-4" r="5" fill="#FF9500"/>
       <text x="16" y="1" font-size="14" fill="#FFFFFF">Dart</text>
-      <text x="180" y="1" text-anchor="end" font-size="14" fill="#8E8E93">11%</text></g>
+      <text x="180" y="1" text-anchor="end" font-size="14" fill="#8E8E93">12%</text></g>
     <g transform="translate(200 26)">
       <circle cx="5" cy="-4" r="5" fill="#FF2D55"/>
       <text x="16" y="1" font-size="14" fill="#FFFFFF">HTML</text>
-      <text x="180" y="1" text-anchor="end" font-size="14" fill="#8E8E93">11%</text></g>
+      <text x="180" y="1" text-anchor="end" font-size="14" fill="#8E8E93">10%</text></g>
     <g transform="translate(0 52)">
       <circle cx="5" cy="-4" r="5" fill="#AF52DE"/>
       <text x="16" y="1" font-size="14" fill="#FFFFFF">Java</text>
@@ -105,14 +105,14 @@
     <text x="40" y="33" font-size="15" font-weight="600" fill="#AF52DE">Trends</text>
     <text x="796" y="33" text-anchor="end" font-size="13" fill="#8E8E93">26 weeks</text>
     <path d="M806 23 l5 5 -5 5" stroke="#8E8E93" stroke-opacity=".6" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-    <text x="24" y="66" font-size="15" fill="#FFFFFF">Your contributions are trending <tspan font-weight="700" fill="#AF52DE">up</tspan> — 240 in the last year.</text>
-    <g transform="translate(24 72)"><path d="M0.0 68.5 L31.4 41.7 L62.7 28.3 L94.1 17.9 L125.4 56.6 L156.8 70.0 L188.2 68.5 L219.5 70.0 L250.9 67.0 L282.2 70.0 L313.6 70.0 L345.0 70.0 L376.3 70.0 L407.7 70.0 L439.0 70.0 L470.4 68.5 L501.8 55.1 L533.1 68.5 L564.5 70.0 L595.8 70.0 L627.2 70.0 L658.6 70.0 L689.9 46.2 L721.3 65.5 L752.6 0.0 L784.0 32.8 L784 70 L0 70 Z" fill="url(#tr)"/><path d="M0.0 68.5 L31.4 41.7 L62.7 28.3 L94.1 17.9 L125.4 56.6 L156.8 70.0 L188.2 68.5 L219.5 70.0 L250.9 67.0 L282.2 70.0 L313.6 70.0 L345.0 70.0 L376.3 70.0 L407.7 70.0 L439.0 70.0 L470.4 68.5 L501.8 55.1 L533.1 68.5 L564.5 70.0 L595.8 70.0 L627.2 70.0 L658.6 70.0 L689.9 46.2 L721.3 65.5 L752.6 0.0 L784.0 32.8" fill="none" stroke="#5856D6" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
-      <circle cx="784" cy="32.765957446808514" r="5" fill="#5856D6" stroke="#1C1C1E" stroke-width="2"/></g>
+    <text x="24" y="66" font-size="15" fill="#FFFFFF">Your contributions are trending <tspan font-weight="700" fill="#AF52DE">up</tspan> — 259 in the last year.</text>
+    <g transform="translate(24 72)"><path d="M0.0 68.5 L31.4 41.7 L62.7 28.3 L94.1 17.9 L125.4 56.6 L156.8 70.0 L188.2 68.5 L219.5 70.0 L250.9 67.0 L282.2 70.0 L313.6 70.0 L345.0 70.0 L376.3 70.0 L407.7 70.0 L439.0 70.0 L470.4 68.5 L501.8 55.1 L533.1 68.5 L564.5 70.0 L595.8 70.0 L627.2 70.0 L658.6 70.0 L689.9 46.2 L721.3 65.5 L752.6 0.0 L784.0 4.5 L784 70 L0 70 Z" fill="url(#tr)"/><path d="M0.0 68.5 L31.4 41.7 L62.7 28.3 L94.1 17.9 L125.4 56.6 L156.8 70.0 L188.2 68.5 L219.5 70.0 L250.9 67.0 L282.2 70.0 L313.6 70.0 L345.0 70.0 L376.3 70.0 L407.7 70.0 L439.0 70.0 L470.4 68.5 L501.8 55.1 L533.1 68.5 L564.5 70.0 L595.8 70.0 L627.2 70.0 L658.6 70.0 L689.9 46.2 L721.3 65.5 L752.6 0.0 L784.0 4.5" fill="none" stroke="#5856D6" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+      <circle cx="784" cy="4.468085106382972" r="5" fill="#5856D6" stroke="#1C1C1E" stroke-width="2"/></g>
   </g>
 
   <g transform="translate(24 796)"><rect width="196" height="96" rx="20" fill="#1C1C1E"/>
-        <text x="20" y="32" font-size="13" font-weight="600" fill="#FF9500">Stars earned</text><text x="20" y="74" font-size="28" font-weight="700" fill="#FFFFFF" letter-spacing="-0.5">14<tspan font-size="16" font-weight="600" fill="#8E8E93" dx="4">★</tspan></text></g><g transform="translate(236 796)"><rect width="196" height="96" rx="20" fill="#1C1C1E"/>
-        <text x="20" y="32" font-size="13" font-weight="600" fill="#30B0C7">Pull requests</text><text x="20" y="74" font-size="28" font-weight="700" fill="#FFFFFF" letter-spacing="-0.5">11<tspan font-size="16" font-weight="600" fill="#8E8E93" dx="4">PRs</tspan></text></g><g transform="translate(448 796)"><rect width="196" height="96" rx="20" fill="#1C1C1E"/>
-        <text x="20" y="32" font-size="13" font-weight="600" fill="#FF2D55">Public repos</text><text x="20" y="74" font-size="28" font-weight="700" fill="#FFFFFF" letter-spacing="-0.5">42<tspan font-size="16" font-weight="600" fill="#8E8E93" dx="4">repos</tspan></text></g><g transform="translate(660 796)"><rect width="196" height="96" rx="20" fill="#1C1C1E"/>
+        <text x="20" y="32" font-size="13" font-weight="600" fill="#FF9500">Stars earned</text><text x="20" y="74" font-size="28" font-weight="700" fill="#FFFFFF" letter-spacing="-0.5">15<tspan font-size="16" font-weight="600" fill="#8E8E93" dx="4">★</tspan></text></g><g transform="translate(236 796)"><rect width="196" height="96" rx="20" fill="#1C1C1E"/>
+        <text x="20" y="32" font-size="13" font-weight="600" fill="#30B0C7">Pull requests</text><text x="20" y="74" font-size="28" font-weight="700" fill="#FFFFFF" letter-spacing="-0.5">16<tspan font-size="16" font-weight="600" fill="#8E8E93" dx="4">PRs</tspan></text></g><g transform="translate(448 796)"><rect width="196" height="96" rx="20" fill="#1C1C1E"/>
+        <text x="20" y="32" font-size="13" font-weight="600" fill="#FF2D55">Public repos</text><text x="20" y="74" font-size="28" font-weight="700" fill="#FFFFFF" letter-spacing="-0.5">43<tspan font-size="16" font-weight="600" fill="#8E8E93" dx="4">repos</tspan></text></g><g transform="translate(660 796)"><rect width="196" height="96" rx="20" fill="#1C1C1E"/>
         <text x="20" y="32" font-size="13" font-weight="600" fill="#34C759">Since</text><text x="20" y="74" font-size="28" font-weight="700" fill="#FFFFFF" letter-spacing="-0.5">2024<tspan font-size="16" font-weight="600" fill="#8E8E93" dx="4">on GitHub</tspan></text></g>
 </svg>
